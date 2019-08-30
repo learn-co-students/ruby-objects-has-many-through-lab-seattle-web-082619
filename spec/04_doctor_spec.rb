@@ -49,4 +49,6 @@ describe 'Doctor' do
       expect(doctor_who.patients).to include(hevydevy)
     end
   end
+
+  
 end
